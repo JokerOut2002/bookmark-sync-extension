@@ -1,0 +1,42 @@
+{
+  "manifest_version": 3,
+  "name": "书签同步工具",
+  "version": "1.0.0",
+  "description": "跨浏览器书签同步，支持 WebDAV 云端存储",
+  "permissions": [
+    "bookmarks",
+    "storage",
+    "alarms",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://*/*"
+  ],
+  "background": {
+    "service_worker": "src/background/index.ts",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "src/popup/index.html",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png",
+      "128": "icons/icon-128.png"
+    }
+  },
+  "options_page": "src/options/index.html",
+  "chrome_url_overrides": {},
+  "web_accessible_resources": [
+    {
+      "resources": ["src/manager/index.html"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  }
+}
